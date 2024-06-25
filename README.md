@@ -38,3 +38,5 @@ Based on the forecasting model, the sales for the next 15 days are expected to r
 * **Regional Performance:** The West region is the most profitable, while the South is the least. Therefore, targeting the South region with strategic initiatives could increase overall profitability in the upcoming year.
 
 These insights provide a clear direction for strategic decision-making, emphasizing the need to enhance customer trust, focus on high-performing product categories, and implement targeted regional strategies to boost sales and profitability.
+
+**Note:-** For quick view or reference the powerbi visual charts is exported in pdf format i.e **superstore_sales.pdf** and image screenshot of dashboard **forecasting.jpg** and **performance.jpg**
